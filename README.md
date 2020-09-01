@@ -29,14 +29,42 @@
 22. Erros e Exceções
 23. Módulos & Pacotes
 
-## Bibliotecas de Manipulação de Dados
-24.
-25.
-26.
-27.
+## Manipulação de Dados
+Files, Pandas, Numpy.
+24. Arquivos: Leitura e Escrita [[2]](#2)
+25. Aplicação de Funções de Ordem Superior: Filter, Map e Reduce [[1]](#1)
+26. NumPy: Criando Arrays [[3]](#3)
+27. NumPy: Manipulando Arrays
 28.
 29.
-30.
+30. Pandas: Introdução
+
+## Visualização de Dados
+Matplotlib, Seaborn, Plotly
+
+## Estatística para Data Science
+Estatística Descritiva, Análise Exploratória, Estimação de Valores, Inferência Estátistica
+
+## Aprendizado de Máquina
+Scitkitlearn, Tensorflow, Keras.
+
+## Reinforcement Learning
+
+## Processamento de Linguagem Natural
+NLTK, fuzzywuzzy.
+
+## Bancos de Dados
+MySQL, PostgreSQL, MongoDB
+
+## Web scraping
+Scrapy, Selenium, BeautifulSoup.
+
+## Deployment
+Flask, Django, Dash, Shiny, PyQT.
 
 # Referências
-<a id="1">[1]</a> HUNT, John. **A beginners guide to Python 3 programming**. Springer Nature Switzerland AG 2019. 2019. 
+<a id="1">[1]</a> HUNT, John. **A Beginners Guide to Python 3 Programming**. Springer Nature Switzerland AG 2019. 2019. 
+
+<a id="2">[2]</a> HUNT, John. **Advanced Guide to Python 3 Programming**. Springer Nature Switzerland AG 2019. 2019. 
+
+<a id="3">[3]</a> VANDERPLAS, Jake. **Python Data Science Handbook - Essential tools for working with Data.** O’Reilly Media, Inc. 2017.
