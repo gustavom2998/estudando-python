@@ -31,12 +31,13 @@
 
 ## Manipulação de Dados
 Files, Pandas, Numpy.
+
 24. Arquivos: Leitura e Escrita [[2]](#2)
 25. Aplicação de Funções de Ordem Superior: Filter, Map e Reduce [[1]](#1)
 26. NumPy: Criando Arrays [[3]](#3)
 27. NumPy: Manipulando Arrays
-28.
-29.
+28. a 
+29. b
 30. Pandas: Introdução
 
 ## Visualização de Dados
